@@ -10,7 +10,7 @@ import Box from '@mui/material/Box';
 
 // project-imports
 import MainCard from 'components/MainCard';
-import { GRID_COMMON_SPACING } from 'config';
+import  GRID_COMMON_SPACING  from 'config';
 import ComponentWrapper from 'sections/components-overview/ComponentWrapper';
 
 // ===============================|| COMPONENT - SKELETON ||=============================== //

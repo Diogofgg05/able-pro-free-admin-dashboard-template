@@ -11,7 +11,7 @@ export default function SamplePage() {
     <MainCard title="Sample Card">
       <Typography variant="body1">
         Do you Know? Able is used by more than 2.4K+ Customers worldwide. This new v9 version is the major release of Able Pro Dashboard
-        Template with having brand new modern User Interface.
+        Template with having brand new modern User Interfasdaace.
       </Typography>
     </MainCard>
   );
